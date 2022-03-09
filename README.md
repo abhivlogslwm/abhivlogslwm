@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gaurav</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek </h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
-- 👨‍💻 All of my projects are available at **[My Linkedin Profile](https://www.linkedin.com/in/gaurav-porwal-072b471a9/)**
+- 👨‍💻 All of my projects are available at **[My Linkedin Profile](https://www.linkedin.com/in/abhishek-dwivedi-3925a9219/)**
 
-- 📫 How to reach me *gauravporwal001@gmail.com*
+- 📫 How to reach me *dwivediabhishek1974@gmail.com*
 
 - ⚡ Fun fact *An engineer has the power of getting up at 9.45 am and reaching the class at 10.00 am.*
 
@@ -41,7 +41,7 @@
 
   <br/>
     <a href="https://github.com/abhivlogslwm/github-readme-stats"><img alt="Abhishek Dwivedi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhivlogslwm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/abhivlogslwm/github-readme-stats"><img alt="abhivlogslwm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhivlogslwm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/abhivlogslwm/github-readme-stats"><img alt="Abhishek Dwivedi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhivlogslwm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -57,7 +57,6 @@
 ## 4. Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/Abhishek-Dwivedi-072b471a9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/Abhishek.Dwivedi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "Abhishek Dwivedi"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
